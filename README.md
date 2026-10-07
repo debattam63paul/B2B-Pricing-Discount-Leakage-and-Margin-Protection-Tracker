@@ -125,7 +125,7 @@ Transactions with missing Quantity or Selling Price were retained for data-quali
 
 ---
 
-## Google Sheet Link
+## Google Sheet Link for Tracker
 https://docs.google.com/spreadsheets/d/162MVSzO384lFs7TLjuEcCn6zJpo8xv9RlO1brcKL7Ow/edit?gid=354825797#gid=354825797
 
 ---
