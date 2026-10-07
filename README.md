@@ -304,10 +304,6 @@ B2B-Pricing-Discount-Leakage-Margin-Protection-Tracker/
 │   ├── Customer_Master_Cleaned.xlsx
 │   └── Product_Pricing_Policy_Cleaned.xlsx
 │
-├── Documentation/
-│   ├── Data_Cleaning_Process.txt
-│   └── Tracker_Structure.txt
-│
 └── Screenshots/
 ```
 
